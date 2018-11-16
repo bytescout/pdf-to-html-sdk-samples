@@ -2,6 +2,7 @@
 
 \ASP.NET
 \C#
+\C# - .NET Core 2.0
 \VB.NET
 \VBScript and VB6
 \_Web API
@@ -13,6 +14,7 @@
 \C#\PDF To HTML (with layout) from all pages
 \C#\PDF To HTML (with layout) from page
 \C#\Reduce Memory Usage
+\C# - .NET Core 2.0\PDF To HTML
 \VB.NET\PDF To HTML (simple layout) from all pages
 \VB.NET\PDF To HTML (simple layout) from page
 \VB.NET\PDF To HTML (with layout) from all pages

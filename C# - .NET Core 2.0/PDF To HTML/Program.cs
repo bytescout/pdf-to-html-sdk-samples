@@ -10,10 +10,10 @@
 //*******************************************************************************************//
 
 
-using System;
+using System.Diagnostics;
 using Bytescout.PDF2HTML;
 
-namespace ExtractHTMLFromPage
+namespace PdfToHtml
 {
     class Program
     {
@@ -28,16 +28,16 @@ namespace ExtractHTMLFromPage
             extractor.ExtractionMode = HTMLExtractionMode.HTMLWithCSS;
 
             // Load sample PDF document
-            extractor.LoadDocumentFromFile("sample2.pdf");
+            extractor.LoadDocumentFromFile(@".\sample2.pdf");
 
-            // Convert 2-nd page to HTML and save it to file
-            extractor.SaveHtmlPageToFile(1, "output.html");
+            // Save extracted HTML to file
+            extractor.SaveHtmlToFile(@".\output.html");
 
             // Cleanup
             extractor.Dispose();
 
             // Open output file in default associated application
-            System.Diagnostics.Process.Start("output.html");
+            Process.Start(new ProcessStartInfo("output.html") { UseShellExecute = true });
         }
     }
 }
