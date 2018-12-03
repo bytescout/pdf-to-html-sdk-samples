@@ -3,7 +3,8 @@
 \ASP.NET
 \C#
 \VB.NET
-\VBScript and VB6
+\VB6
+\VBScript
 \_Web API
 \ASP.NET\PDF To HTML (simple layout)
 \ASP.NET\PDF To HTML (with layout)
@@ -18,10 +19,14 @@
 \VB.NET\PDF To HTML (with layout) from all pages
 \VB.NET\PDF To HTML (with layout) from page
 \VB.NET\Reduce Memory Usage
-\VBScript and VB6\Change Output Page Width
-\VBScript and VB6\Get Page Width And Height
-\VBScript and VB6\PDF To HTML (simple layout)
-\VBScript and VB6\PDF To HTML (with layout)
+\VB6\Change Output Page Width
+\VB6\Get Page Width And Height
+\VB6\PDF To HTML (simple layout)
+\VB6\PDF To HTML (with layout)
+\VBScript\Change Output Page Width
+\VBScript\Get Page Width And Height
+\VBScript\PDF To HTML (simple layout)
+\VBScript\PDF To HTML (with layout)
 \_Web API\PDF To HTML
 \_Web API\PDF To HTML\C#
 \_Web API\PDF To HTML\cURL
