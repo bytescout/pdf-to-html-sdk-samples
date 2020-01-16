@@ -12,11 +12,13 @@
 \C#\Convert PDF To HTML (Simple Layout) From Page
 \C#\Convert PDF To HTML (With Complex Layout) From All Pages
 \C#\Convert PDF To HTML (With Complex Layout) From Page
+\C#\Download and Process file
 \C#\Reduce Memory Usage During PDF to HTML Conversion
 \VB.NET\Convert PDF To HTML (Complex Layout) From All Pages
 \VB.NET\Convert PDF To HTML (Complex Layout) From Page
 \VB.NET\Convert PDF To HTML (Simple Layout) From All Pages
 \VB.NET\Convert PDF To HTML (Simple Layout) From Page
+\VB.NET\Download and Process file
 \VB.NET\Reduce Memory Usage During PDF to HTML Conversion
 \VB6\Change PDF To HTML Output Page Width
 \VB6\Convert PDF To HTML (Complex Layout)
