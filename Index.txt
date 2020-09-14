@@ -2,6 +2,7 @@
 
 \ASP.NET
 \C#
+\Delphi
 \VB.NET
 \VB6
 \VBScript
@@ -14,6 +15,10 @@
 \C#\Convert PDF To HTML (With Complex Layout) From Page
 \C#\Download and Process file
 \C#\Reduce Memory Usage During PDF to HTML Conversion
+\Delphi\Convert PDF To HTML (Simple Layout) From All Pages
+\Delphi\Convert PDF To HTML (With Complex Layout) From All Pages
+\Delphi\Download and Process file
+\Delphi\Reduce Memory Usage During PDF to HTML Conversion
 \VB.NET\Convert PDF To HTML (Complex Layout) From All Pages
 \VB.NET\Convert PDF To HTML (Complex Layout) From Page
 \VB.NET\Convert PDF To HTML (Simple Layout) From All Pages
